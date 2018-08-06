@@ -37,3 +37,4 @@ Leo.eat(Ralph);
 console.log("Did Ralph survive?  " + Ralph.isAlive)
 Leo.eat(Abe);
 Abe.beatChest();
+Leo.roar();
